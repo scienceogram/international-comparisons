@@ -1,0 +1,6 @@
+name,url,prefactor,role
+gerd.total.ppp,SCN_DS/EXPPPP_CUR,1000,variable
+gerd.business.ppp,SCN_DS/EXPPPP_CUR_SF_BUSENTFS,1000,variable
+gerd.gov.ppp,SCN_DS/EXPPPP_CUR_SF_GOVFS,1000,variable
+gdp.ppp,DEMO_DS/NY_GDP_MKTP_PP_CD,1,divisor
+total.pop,DEMO_DS/200101,1000,divisor
