@@ -1,0 +1,4 @@
+# Do not version control program output
+*
+*/
+!.gitignore
